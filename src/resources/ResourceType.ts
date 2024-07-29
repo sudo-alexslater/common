@@ -1,1 +1,1 @@
-export type ResourceType = "quote";
+export type ResourceType = "quote" | "lobby";
